@@ -1,6 +1,8 @@
 # Amazon-Clone
 
---Amazon Clone With fully responsive
+Amazon Clone With fully responsive
+
+Using HTML , CSS And Bootstrap
 
 
 
